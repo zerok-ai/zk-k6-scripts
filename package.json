@@ -1,0 +1,19 @@
+{
+  "name": "zk-k6-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scenarioRunner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerok-ai/zk-k6-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerok-ai/zk-k6-scripts/issues"
+  },
+  "homepage": "https://github.com/zerok-ai/zk-k6-scripts#readme"
+}
